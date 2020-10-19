@@ -100,8 +100,7 @@
 
         </plugins>
     </build>
-
- <distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
         <name>8bef48136548-releases</name>
