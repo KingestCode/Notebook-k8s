@@ -101,16 +101,16 @@
         </plugins>
     </build>
 
-  <distributionManagement>
+ <distributionManagement>
     <repository>
         <id>central</id>
         <name>8bef48136548-releases</name>
-        <url>http://localhost:8083/artifactory/lib-release-local</url>
+        <url>http://localhost:8083/artifactory/libs-release</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>8bef48136548-snapshots</name>
-        <url>http://localhost:8083/artifactory/lib-release-local</url>
+        <url>http://localhost:8083/artifactory/libs-release</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
