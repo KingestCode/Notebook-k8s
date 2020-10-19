@@ -101,16 +101,16 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-		<repository>
-			<id>central</id>
-			<name>19e4792885cb-releases</name>
-			<url>http://192.168.210.59:8083/artifactory/libs-release</url>
-		</repository>
-		<snapshotRepository>
-			<id>snapshots</id>
-			<name>19e4792885cb-snapshots</name>
-			<url>http://192.168.210.59:8083/artifactory/libs-snapshot</url>
-		</snapshotRepository>
-	</distributionManagement>
+   <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>8bef48136548-releases</name>
+        <url>http://192.168.0.102:8083/artifactory/libs-release</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>8bef48136548-snapshots</name>
+        <url>http://192.168.0.102:8083/artifactory/libs-release</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
