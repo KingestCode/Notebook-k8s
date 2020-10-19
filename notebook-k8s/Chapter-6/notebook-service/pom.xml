@@ -10,9 +10,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>notebook-service</artifactId>
+    <artifactId>notebook-service1</artifactId>
     <groupId>org.wangqing.notebook-k8s</groupId>
-    <version>1.1</version>
+    <version>1.3</version>
 
     <properties>
         <java.version>1.8</java.version>
